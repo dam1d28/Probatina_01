@@ -2,4 +2,5 @@
 esto se me habia olvidado
 =======
 se me ha olvidado
->>>>>>> desarrollo
+se me ha olvidado
+en desarrollo
